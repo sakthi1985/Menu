@@ -1,0 +1,5 @@
+D:\Access\SampleProject\SampleProject\bin\SampleProject.dll
+D:\Access\SampleProject\SampleProject\bin\SampleProject.pdb
+D:\Access\SampleProject\SampleProject\obj\Debug\ResolveAssemblyReference.cache
+D:\Access\SampleProject\SampleProject\obj\Debug\SampleProject.dll
+D:\Access\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
