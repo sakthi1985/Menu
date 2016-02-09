@@ -36,6 +36,11 @@
         <asp:Button ID="Button1" OnClick="CheckCookieName" runat="server" Text="Button" />
     
     </div>
+<div>
+        <asp:Label ID="lblsetcookie" runat="server" Text="Label"></asp:Label>
+        <asp:Button ID="Button1" OnClick="CheckCookieName" runat="server" Text="Button" />
+    
+    </div>
     </form>
 </body>
 </html>
